@@ -1,2 +1,2 @@
-# SCT_WD_2
+# Calculator
 calculator programme in web development 
